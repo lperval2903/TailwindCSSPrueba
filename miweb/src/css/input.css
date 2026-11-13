@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@theme {
+    --color-primario: #243cff;
+    --spacing-anchura: 400px;
+    --spacing-altura: 200px;
+}
